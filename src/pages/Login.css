@@ -1,0 +1,29 @@
+.container {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.login {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  gap: 10px;
+}
+
+.login__username {
+  font-size: 1.5rem;
+}
+
+.login__input {
+  display: flex;
+  width: 100%;
+  gap: 5px;
+}
+
+.login__actions {
+  display: flex;
+  width: 100%;
+  gap: 10px;
+}
