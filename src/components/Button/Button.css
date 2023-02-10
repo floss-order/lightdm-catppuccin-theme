@@ -1,0 +1,16 @@
+.button {
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  background: black;
+  appearance: none;
+  font-weight: 600;
+}
+
+.button:focus {
+  outline: 2px solid #CBA6F7
+}
+
+.button:hover {
+  background: #CBA6F7;
+}
