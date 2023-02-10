@@ -1,0 +1,23 @@
+.modal {
+  padding: 20px;
+  width: 400px;
+  border: 2px solid #CBA6F7;
+  border-radius: 10px;
+  background: black;
+}
+
+.modal__title {
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.modal__prompt {
+  margin-top: 10px;
+}
+
+.modal__actions {
+  margin-top: 20px;
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+}
